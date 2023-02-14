@@ -1,2 +1,0 @@
-# intro-javaskipt
- exeplo1
